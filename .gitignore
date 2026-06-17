@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated training outputs (model + plots)
+artifacts/
+
+# Downloaded dataset cache (e.g. SNIPS benchmark JSON)
+data/
